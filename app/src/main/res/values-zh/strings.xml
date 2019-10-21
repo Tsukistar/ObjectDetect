@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">可见光定位</string>
+    <string name="Photo">拍照</string>
+    <string name="Upload">上传图片</string>
+    <string name="exit">退出</string>
+    <string name="cancel">取消</string>
+    <string name="whether_quit">确定退出吗？</string>
+</resources>

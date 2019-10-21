@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Visible Light Positioning</string>
+    <string name="version_number" translatable="false">v1.0.0</string>
+    <string name="Photo">Take a Photo</string>
+    <string name="Upload">Upload a Picture</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="whether_quit">Quit the APP?</string>
+</resources>
